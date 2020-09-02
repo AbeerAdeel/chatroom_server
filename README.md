@@ -1,5 +1,5 @@
 # Chatroom Server
-
+A web server where you can create separate chatrooms to chat with friends and colleagues as well as share different locations using Google Maps API.
 
 
 ## Commands
